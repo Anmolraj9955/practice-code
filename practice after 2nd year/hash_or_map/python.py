@@ -1,0 +1,2 @@
+name = 'ANMOL'
+print(name)
